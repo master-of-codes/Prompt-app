@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Sunset Vibes",
+        "categories": ["Aesthetic"],
+        "description": "Create a stunning sunset scene with vibrant colors, soft lighting, and a serene atmosphere. Perfect for dreamy AI-generated images that evoke peace and beauty.",
+        "imageUrl": "/images/img1.png"
+    },
+    {
+        "id": 2,
+        "title": "Minimalist Art",
+        "categories": ["Aesthetic"],
+        "description": "Design a minimalist artwork featuring clean lines, subtle gradients, and a focus on simplicity. Ideal for modern, elegant visuals that stand out with their understated elegance.",
+        "imageUrl": "https://via.placeholder.com/200x150/4ECDC4/FFFFFF?text=Aesthetic+2"
+    },
+    {
+        "id": 3,
+        "title": "Floral Dreams",
+        "categories": ["Aesthetic"],
+        "description": "Imagine a field of blooming flowers under a starry sky, with delicate petals and ethereal glow. This prompt inspires whimsical and enchanting AI art pieces.",
+        "imageUrl": "https://via.placeholder.com/200x150/45B7D1/FFFFFF?text=Aesthetic+3"
+    },
+    {
+        "id": 4,
+        "title": "Urban Elegance",
+        "categories": ["Aesthetic"],
+        "description": "Capture the beauty of city lights reflecting on wet streets, with a touch of nostalgia and sophistication. Great for creating moody, atmospheric urban scenes.",
+        "imageUrl": "https://via.placeholder.com/200x150/F7DC6F/FFFFFF?text=Aesthetic+4"
+    },
+    {
+        "id": 5,
+        "title": "90s Cartoon Nostalgia",
+        "categories": ["90's Cartoon", "Royal"],
+        "description": "Generate a scene in the style of a classic 90's cartoon, vibrant colors and exaggerated expressions. Great for childhood memories.",
+        "imageUrl": "https://via.placeholder.com/200x150/FFAA00/FFFFFF?text=90s+Cartoon"
+    },
+    {
+        "id": 6,
+        "title": "Royal Portrait",
+        "categories": ["Royal"],
+        "description": "A stunning, regal portrait of a person in ancient royal attire, highly detailed, dramatic lighting.",
+        "imageUrl": "https://via.placeholder.com/200x150/8B4513/FFFFFF?text=Royal+Portrait"
+    },
+        {
+        "id": 7,
+        "title": "Royal Portrait",
+        "categories": ["Royal"],
+        "description": "A stunning, regal portrait of a person in ancient royal attire, highly detailed, dramatic lighting.",
+        "imageUrl": "https://via.placeholder.com/200x150/8B4513/FFFFFF?text=Royal+Portrait"
+    }
+    
+]
